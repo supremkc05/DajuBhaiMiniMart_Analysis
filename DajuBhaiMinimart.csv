@@ -1,0 +1,301 @@
+CustomerID,CustomerName,Quantity,Price (NPR),Sales (NPR),Channel,Ratings,ProductCategory,PaymentMethod,TransactionDate,StoreLocation,DiscountApplied (NPR),LoyaltyMember,CustomerContact,Feedback,Gender
+CUST001,Bishal Gurung,11,1303,17199,Website,4,Electronics,Card,12/6/2023 5:13,-,60,Yes,9819894305,Quick delivery,Male
+CUST002,Sita Tamang,10,610,7246,Market Visit,4,Clothing,Mobile Payment,12/22/2023 12:54,Pokhara,240,Yes,9823584905,Satisfied with quality,Female
+CUST003,Sarita Lama,7,1812,12684,Market Visit,3,Electronics,Mobile Payment,10/13/2024 1:03,Lalitpur,200,No,9823088823,Friendly staff,Female
+CUST004,Ram Shrestha,3,1070,3210,Website,1,Electronics,Mobile Payment,6/5/2024 6:08,-,100,No,9888996168,Quick delivery,Male
+CUST005,Sita Tamang,10,1209,14362,Market Visit,5,Personal Care,Card,10/26/2024 16:28,Bhaktapur,60,Yes,9874939195,Prices a bit high,Female
+CUST006,Kamal Sharma,8,730,5840,Market Visit,1,Groceries,Mobile Payment,12/19/2023 14:28,Lalitpur,50,No,9822774604,Friendly staff,Female
+CUST007,Sarita Lama,10,1051,10510,Website,2,Electronics,Mobile Payment,10/28/2024 22:40,-,50,No,9824138543,Quick delivery,Female
+CUST008,Bishal Gurung,3,1176,3528,Market Visit,5,Clothing,Mobile Payment,6/19/2024 0:13,Lalitpur,100,No,9845804019,Great experience,Female
+CUST009,Asha Rai,2,1037,2074,Website,4,Personal Care,Mobile Payment,4/10/2024 13:12,-,0,No,9893668471,Great experience,Female
+CUST010,Asha Rai,5,1950,10296,Website,3,Clothing,Cash,2/1/2024 0:19,-,120,Yes,9895436144,Prices a bit high,Female
+CUST011,Sita Tamang,10,1740,17400,Market Visit,3,Household,Card,10/22/2024 5:02,Bhaktapur,0,No,9890011943,Great experience,Female
+CUST012,Nima Sherpa,9,1114,10026,Market Visit,2,Clothing,Cash,10/19/2024 0:45,Bhaktapur,100,No,9835743855,Satisfied with quality,Male
+CUST013,Kamal Sharma,8,1054,9738,Website,4,Electronics,Card,3/9/2024 1:35,-,120,Yes,9814312734,Quick delivery,Male
+CUST014,Ram Shrestha,9,1620,17107,Website,5,Electronics,Mobile Payment,12/29/2023 19:10,-,60,Yes,9878479066,Friendly staff,Female
+CUST015,Sarita Lama,9,456,4814,Market Visit,2,Groceries,Cash,1/5/2024 20:14,Bhaktapur,60,Yes,9821384641,Prices a bit high,Male
+CUST016,Kamal Sharma,5,728,3843,Website,5,Household,Mobile Payment,3/5/2024 6:57,-,120,Yes,9849453413,Great experience,Male
+CUST017,Kamal Sharma,10,745,8850,Market Visit,5,Personal Care,Card,3/19/2024 2:12,Lalitpur,60,Yes,9870047442,Friendly staff,Male
+CUST018,Sarita Lama,11,1232,16262,Market Visit,3,Personal Care,Card,1/25/2024 3:06,Kathmandu,240,Yes,9838396365,Great experience,Male
+CUST019,Ram Shrestha,4,1576,6304,Market Visit,4,Groceries,Card,12/17/2023 12:05,Kathmandu,0,No,9859825135,Friendly staff,Male
+CUST020,Nima Sherpa,3,1469,3877,Market Visit,5,Clothing,Mobile Payment,12/10/2023 2:47,Lalitpur,240,Yes,9861901703,Friendly staff,Female
+CUST021,Bishal Gurung,9,295,3115,Website,3,Personal Care,Cash,8/27/2024 2:03,-,120,Yes,9891480656,Satisfied with quality,Male
+CUST022,Bishal Gurung,6,1985,11910,Market Visit,3,Groceries,Mobile Payment,7/15/2024 13:20,Bhaktapur,200,No,9826708587,Quick delivery,Female
+CUST023,Ram Shrestha,2,449,591,Market Visit,5,Electronics,Cash,8/3/2024 10:12,Bhaktapur,240,Yes,9870020423,Friendly staff,Female
+CUST024,Bishal Gurung,10,637,6370,Market Visit,3,Household,Card,8/27/2024 15:36,Lalitpur,200,No,9844598958,Satisfied with quality,Male
+CUST025,Ram Shrestha,2,740,976,Website,3,Clothing,Card,9/5/2024 23:21,-,240,Yes,9893598114,Friendly staff,Male
+CUST026,Bishal Gurung,9,228,2407,Market Visit,3,Personal Care,Cash,9/24/2024 13:37,Lalitpur,240,Yes,9816048820,Satisfied with quality,Female
+CUST027,Asha Rai,2,1101,2202,Website,1,Electronics,Cash,2/23/2024 6:17,-,100,No,9854229518,Prices a bit high,Female
+CUST028,Bishal Gurung,10,1858,22072,Market Visit,3,Household,Mobile Payment,12/6/2023 17:07,Lalitpur,0,Yes,9833080471,Satisfied with quality,Female
+CUST029,Ram Shrestha,4,1027,4108,Website,5,Personal Care,Mobile Payment,9/20/2024 5:59,-,0,No,9816727420,Quick delivery,Female
+CUST030,Bishal Gurung,4,1375,5444,Market Visit,4,Personal Care,Cash,9/8/2024 3:22,Kathmandu,120,Yes,9839900369,Quick delivery,Male
+CUST031,Asha Rai,4,1334,5282,Market Visit,5,Personal Care,Cash,5/4/2024 14:07,Pokhara,240,Yes,9847115733,Friendly staff,Female
+CUST032,Sita Tamang,10,623,7400,Website,5,Groceries,Cash,5/24/2024 3:33,-,120,Yes,9861747438,Great experience,Male
+CUST033,Ram Shrestha,10,390,3900,Website,5,Electronics,Mobile Payment,5/13/2024 11:16,-,0,No,9859933516,Friendly staff,Female
+CUST034,Sarita Lama,3,1174,3098,Market Visit,2,Household,Mobile Payment,12/24/2023 21:59,Pokhara,0,Yes,9894204131,Satisfied with quality,Male
+CUST035,Nima Sherpa,5,1895,9475,Website,1,Electronics,Card,6/26/2024 22:05,-,0,No,9855137613,Great experience,Female
+CUST036,Nima Sherpa,9,1418,14973,Website,5,Electronics,Cash,10/7/2024 13:12,-,60,Yes,9827970204,Satisfied with quality,Female
+CUST037,Asha Rai,8,306,2827,Market Visit,4,Household,Mobile Payment,10/16/2024 7:10,Pokhara,240,Yes,9849575379,Quick delivery,Male
+CUST038,Kamal Sharma,9,209,2206,Market Visit,5,Electronics,Mobile Payment,5/3/2024 7:58,Pokhara,120,Yes,9813239254,Great experience,Female
+CUST039,Nima Sherpa,7,860,6020,Website,3,Electronics,Mobile Payment,4/14/2024 8:15,-,0,No,9832257436,Friendly staff,Female
+CUST040,Kamal Sharma,10,1769,21015,Market Visit,5,Household,Cash,10/7/2024 8:14,Kathmandu,240,Yes,9842579696,Great experience,Male
+CUST041,Sita Tamang,10,1845,21918,Market Visit,5,Clothing,Card,9/7/2024 20:53,Bhaktapur,120,Yes,9819277626,Prices a bit high,Male
+CUST042,Sarita Lama,2,1911,3822,Market Visit,5,Household,Card,2/16/2024 23:20,Kathmandu,100,No,9855356814,Satisfied with quality,Female
+CUST043,Nima Sherpa,4,215,850,Market Visit,2,Clothing,Card,3/31/2024 13:06,Bhaktapur,240,Yes,9846402741,Quick delivery,Male
+CUST044,Shyam Lama,2,1239,2478,Website,4,Clothing,Card,4/2/2024 17:59,-,200,No,9836808595,Prices a bit high,Female
+CUST045,Bishal Gurung,2,1825,2408,Market Visit,4,Electronics,Card,8/22/2024 7:22,Lalitpur,60,Yes,9849056775,Quick delivery,Female
+CUST046,Kamal Sharma,2,1903,3806,Website,4,Household,Mobile Payment,7/9/2024 7:38,-,0,No,9896919883,Prices a bit high,Female
+CUST047,Ram Shrestha,8,1094,8752,Website,4,Clothing,Cash,2/26/2024 13:21,-,100,No,9889405191,Prices a bit high,Female
+CUST048,Ram Shrestha,11,129,1702,Website,4,Groceries,Mobile Payment,9/25/2024 11:25,-,120,Yes,9817067259,Quick delivery,Female
+CUST049,Bishal Gurung,1,699,699,Market Visit,3,Electronics,Mobile Payment,6/13/2024 22:38,Bhaktapur,200,No,9830805089,Quick delivery,Male
+CUST050,Bishal Gurung,9,426,4497,Market Visit,5,Personal Care,Cash,7/15/2024 13:09,Kathmandu,60,Yes,9896856288,Satisfied with quality,Female
+CUST051,Sita Tamang,2,1424,1879,Website,4,Household,Card,5/19/2024 18:10,-,0,Yes,9840570053,Quick delivery,Male
+CUST052,Ram Shrestha,2,1259,2518,Website,1,Electronics,Card,9/25/2024 16:54,-,0,No,9823654028,Prices a bit high,Female
+CUST053,Nima Sherpa,9,801,7209,Market Visit,3,Clothing,Card,10/16/2024 20:45,Kathmandu,200,No,9865363502,Prices a bit high,Female
+CUST054,Ram Shrestha,6,130,780,Website,1,Household,Cash,4/23/2024 17:59,-,0,No,9810188560,Prices a bit high,Female
+CUST055,Kamal Sharma,7,354,2478,Market Visit,1,Clothing,Cash,5/15/2024 2:31,Kathmandu,50,No,9848657982,Great experience,Female
+CUST056,gaurav karki,6,1719,10314,Website,5,Electronics,Cash,8/30/2024 23:17,-,0,No,9889718248,Satisfied with quality,Male
+CUST057,Ram Shrestha,5,1177,6213,Market Visit,4,Personal Care,Card,1/20/2024 23:20,Bhaktapur,60,Yes,9882869587,Satisfied with quality,Female
+CUST058,Bishal Gurung,11,1833,24195,Website,4,Groceries,Cash,3/10/2024 10:21,-,0,Yes,9860449894,Satisfied with quality,Male
+CUST059,Kamal Sharma,9,1763,15867,Market Visit,1,Household,Card,9/8/2024 12:36,Kathmandu,200,No,9861077523,Great experience,Male
+CUST060,Sarita Lama,9,387,3483,Website,3,Groceries,Card,11/11/2023 16:32,-,200,No,9854896936,Friendly staff,Female
+CUST061,Bishal Gurung,5,471,2486,Website,5,Clothing,Card,7/23/2024 13:31,-,0,Yes,9847836582,Satisfied with quality,Female
+CUST062,Sarita Lama,7,831,6580,Market Visit,2,Clothing,Cash,2/8/2024 2:07,Pokhara,240,Yes,9819296953,Great experience,Male
+CUST063,Asha Rai,6,1728,11404,Website,3,Electronics,Mobile Payment,11/4/2024 18:03,-,0,Yes,9812504734,Great experience,Female
+CUST064,Asha Rai,1,1287,1287,Website,4,Electronics,Card,11/3/2024 4:21,-,50,No,9875575843,Great experience,Male
+CUST065,Bishal Gurung,9,431,3879,Market Visit,3,Clothing,Cash,12/17/2023 23:32,Lalitpur,100,No,9847878339,Satisfied with quality,Female
+CUST066,Kamal Sharma,8,1148,9184,Website,1,Electronics,Card,5/3/2024 17:17,-,100,No,9812869249,Prices a bit high,Male
+CUST067,Nima Sherpa,11,146,1927,Website,3,Electronics,Mobile Payment,3/12/2024 4:50,-,120,Yes,9812638857,Quick delivery,Male
+CUST068,Ram Shrestha,5,445,2349,Website,2,Household,Card,9/21/2024 22:50,-,0,Yes,9830711093,Quick delivery,Male
+CUST069,Sarita Lama,2,650,1300,Website,5,Electronics,Mobile Payment,1/4/2024 9:43,-,200,No,9828847186,Prices a bit high,Male
+CUST070,Bishal Gurung,4,772,3056,Market Visit,5,Personal Care,Mobile Payment,10/12/2024 5:18,Lalitpur,60,Yes,9817909167,Friendly staff,Male
+CUST071,Nima Sherpa,6,1324,7944,Website,5,Household,Cash,3/3/2024 7:40,-,200,No,9813591815,Quick delivery,Female
+CUST072,Bishal Gurung,4,283,1132,Market Visit,4,Electronics,Card,3/26/2024 3:20,Kathmandu,50,No,9853873322,Friendly staff,Female
+CUST073,Sita Tamang,2,1593,2102,Website,4,Electronics,Card,10/5/2024 6:04,-,120,Yes,9866649184,Quick delivery,Male
+CUST074,Sharwan Gurung,9,317,3346,Website,3,Household,Mobile Payment,3/15/2024 10:14,-,120,Yes,9867184189,Friendly staff,Male
+CUST075,Sita Tamang,7,1458,11546,Website,2,Personal Care,Mobile Payment,8/28/2024 9:35,-,60,Yes,9851737335,Friendly staff,Male
+CUST076,Bishal Gurung,9,928,8352,Market Visit,3,Clothing,Card,6/14/2024 9:24,Bhaktapur,100,No,9826595164,Great experience,Female
+CUST077,Bishal Gurung,11,1645,21714,Market Visit,3,Groceries,Cash,8/20/2024 23:02,Bhaktapur,120,Yes,9858435317,Great experience,Female
+CUST078,Asha Rai,5,227,1135,Market Visit,4,Groceries,Card,1/13/2024 14:42,Pokhara,200,No,9875627183,Friendly staff,Male
+CUST079,Bishal Gurung,9,183,1932,Market Visit,2,Household,Cash,10/20/2024 5:07,Lalitpur,60,Yes,9866543791,Prices a bit high,Female
+CUST080,Ram Shrestha,9,553,4977,Market Visit,1,Clothing,Card,8/6/2024 0:13,Pokhara,200,No,9891377196,Satisfied with quality,Male
+CUST081,Sita Tamang,8,1415,11320,Website,2,Electronics,Card,8/5/2024 22:12,-,200,No,9856878724,Great experience,Male
+CUST082,Kamal Sharma,11,1956,25819,Website,5,Clothing,Mobile Payment,7/16/2024 11:17,-,0,Yes,9841463615,Satisfied with quality,Female
+CUST083,Sita Tamang,6,1177,7062,Market Visit,2,Electronics,Mobile Payment,11/1/2024 15:45,Lalitpur,100,No,9887368573,Great experience,Male
+CUST084,Ram Shrestha,7,1033,8180,Website,3,Personal Care,Cash,10/27/2024 4:27,-,240,Yes,9871197997,Friendly staff,Female
+CUST085,Ram Shrestha,11,271,3577,Market Visit,3,Personal Care,Mobile Payment,6/10/2024 21:41,Pokhara,60,Yes,9844549556,Friendly staff,Female
+CUST086,Sarita Lama,5,1699,8495,Website,4,Groceries,Cash,12/30/2023 4:55,-,100,No,9846954858,Prices a bit high,Female
+CUST087,Kamal Sharma,6,1759,11608,Website,2,Household,Cash,1/17/2024 17:55,-,240,Yes,9839453241,Great experience,Female
+CUST088,Sita Tamang,10,604,6040,Website,2,Personal Care,Cash,8/26/2024 9:06,-,100,No,9896653041,Great experience,Female
+CUST089,Ram Shrestha,5,1636,8637,Market Visit,4,Personal Care,Mobile Payment,2/8/2024 15:35,Pokhara,60,Yes,9897101027,Prices a bit high,Female
+CUST090,Sarita Lama,4,867,3468,Market Visit,3,Electronics,Card,3/24/2024 19:56,Bhaktapur,50,No,9862774264,Quick delivery,Male
+CUST091,Asha Rai,10,1922,19220,Market Visit,3,Personal Care,Mobile Payment,4/27/2024 5:24,Lalitpur,0,No,9894586757,Great experience,Female
+CUST092,Sita Tamang,5,477,2385,Market Visit,2,Groceries,Cash,12/18/2023 13:10,Bhaktapur,0,No,9859537965,Quick delivery,Female
+CUST093,Sarita Lama,4,1790,7160,Market Visit,2,Clothing,Card,5/2/2024 6:11,Kathmandu,0,No,9875961867,Quick delivery,Male
+CUST094,Sita Tamang,3,156,468,Website,2,Groceries,Card,12/3/2023 13:29,-,100,No,9886143629,Friendly staff,Male
+CUST095,Ram Shrestha,7,1352,9464,Website,4,Household,Cash,5/1/2024 7:22,-,50,No,9882478985,Great experience,Female
+CUST096,Sarita Lama,6,184,1104,Market Visit,5,Clothing,Card,8/28/2024 15:06,Lalitpur,100,No,9831752928,Quick delivery,Male
+CUST097,Bishal Gurung,3,754,2262,Market Visit,5,Personal Care,Mobile Payment,7/25/2024 9:25,Bhaktapur,50,No,9838799569,Satisfied with quality,Male
+CUST098,Ram Shrestha,4,500,1980,Website,4,Household,Mobile Payment,8/18/2024 22:35,-,240,Yes,9840320578,Quick delivery,Female
+CUST099,Ram Shrestha,6,1135,6810,Website,5,Electronics,Card,12/29/2023 19:02,-,50,No,9895939866,Great experience,Female
+CUST100,Bishal Gurung,10,1567,18615,Market Visit,5,Household,Mobile Payment,7/5/2024 10:10,Pokhara,240,Yes,9854498131,Friendly staff,Male
+CUST101,Sita Tamang,2,622,820,Market Visit,5,Household,Card,1/20/2024 1:10,Lalitpur,60,Yes,9854567430,Friendly staff,Female
+CUST102,Sita Tamang,9,945,8505,Market Visit,3,Household,Mobile Payment,12/31/2023 19:53,Bhaktapur,50,No,9843014948,Quick delivery,Male
+CUST103,Asha Rai,5,475,2508,Market Visit,5,Groceries,Mobile Payment,3/28/2024 16:46,Lalitpur,240,Yes,9812779452,Great experience,Male
+CUST104,Bishal Gurung,2,255,336,Website,4,Electronics,Cash,11/29/2023 17:19,-,120,Yes,9855817320,Friendly staff,Female
+CUST105,Asha Rai,1,585,585,Website,1,Electronics,Cash,5/4/2024 20:55,-,50,No,9835438444,Great experience,Male
+CUST106,Kamal Sharma,4,251,1004,Website,2,Clothing,Card,6/30/2024 14:47,-,50,No,9849254397,Friendly staff,Male
+CUST107,Sita Tamang,1,862,862,Website,5,Personal Care,Card,12/2/2023 13:28,-,50,No,9872888444,Great experience,Male
+CUST108,Sita Tamang,11,1630,21516,Market Visit,5,Electronics,Cash,4/14/2024 2:03,Bhaktapur,0,Yes,9864471845,Great experience,Female
+CUST109,Sita Tamang,10,430,5108,Website,3,Electronics,Cash,4/12/2024 4:55,-,120,Yes,9883701955,Quick delivery,Female
+CUST110,Kamal Sharma,11,1701,22453,Website,5,Groceries,Cash,4/13/2024 19:10,-,120,Yes,9895729397,Great experience,Male
+CUST111,Sita Tamang,6,572,3432,Website,1,Clothing,Card,9/11/2024 8:42,-,100,No,9826590591,Satisfied with quality,Female
+CUST112,Sarita Lama,2,1250,2500,Market Visit,3,Groceries,Card,9/19/2024 19:23,Pokhara,50,No,9887747928,Quick delivery,Male
+CUST113,Kamal Sharma,5,585,3088,Website,2,Groceries,Mobile Payment,6/2/2024 0:41,-,120,Yes,9853245856,Quick delivery,Male
+CUST114,Bishal Gurung,7,1547,10829,Market Visit,5,Household,Mobile Payment,8/5/2024 9:15,Lalitpur,100,No,9894805646,Prices a bit high,Male
+CUST115,Ram Shrestha,8,1290,11919,Website,2,Electronics,Mobile Payment,4/25/2024 23:17,-,60,Yes,9879212364,Friendly staff,Male
+CUST116,Sita Tamang,5,1452,7260,Website,4,Groceries,Mobile Payment,6/3/2024 7:12,-,0,No,9841422157,Friendly staff,Male
+CUST117,Sita Tamang,5,1008,5040,Website,5,Personal Care,Card,6/5/2024 15:23,-,0,No,9899819758,Great experience,Female
+CUST118,Nima Sherpa,5,1905,10058,Website,5,Personal Care,Cash,12/10/2023 15:29,-,0,Yes,9857413452,Great experience,Male
+CUST119,Kamal Sharma,6,1591,10500,Website,4,Electronics,Mobile Payment,1/1/2024 1:00,-,120,Yes,9823670650,Friendly staff,Female
+CUST120,Sarita Lama,1,1998,1998,Website,4,Electronics,Card,10/17/2024 1:08,-,50,No,9821806274,Satisfied with quality,Male
+CUST121,Kamal Sharma,4,1813,7252,Market Visit,4,Electronics,Card,12/26/2023 5:17,Pokhara,100,No,9830301272,Satisfied with quality,Female
+CUST122,Asha Rai,8,1989,15912,Website,4,Electronics,Card,1/29/2024 8:29,-,200,No,9894417999,Great experience,Female
+CUST123,Asha Rai,8,1432,11456,Market Visit,2,Personal Care,Card,10/15/2024 13:25,Kathmandu,100,No,9824694600,Satisfied with quality,Female
+CUST124,Asha Rai,6,1580,9480,Market Visit,2,Groceries,Cash,7/10/2024 23:43,Kathmandu,100,No,9811795966,Quick delivery,Female
+CUST125,Asha Rai,5,1151,5755,Website,2,Groceries,Card,10/25/2024 15:29,-,0,No,9820944473,Satisfied with quality,Female
+CUST126,Sita Tamang,11,859,11338,Website,3,Groceries,Cash,4/7/2024 18:16,-,120,Yes,9897248188,Prices a bit high,Male
+CUST127,Sarita Lama,7,135,1069,Market Visit,5,Personal Care,Card,12/8/2023 5:37,Bhaktapur,120,Yes,9811796284,Friendly staff,Female
+CUST128,Kamal Sharma,6,1384,9134,Market Visit,2,Household,Card,6/27/2024 2:17,Bhaktapur,120,Yes,9871190564,Quick delivery,Female
+CUST129,Sarita Lama,10,1381,16405,Market Visit,2,Household,Card,10/13/2024 16:58,Bhaktapur,60,Yes,9886144189,Satisfied with quality,Female
+CUST130,Bishal Gurung,9,280,2520,Market Visit,2,Electronics,Mobile Payment,12/9/2023 4:08,Lalitpur,200,No,9899391421,Satisfied with quality,Female
+CUST131,Nima Sherpa,2,1841,2430,Market Visit,4,Clothing,Cash,12/26/2023 12:51,Bhaktapur,120,Yes,9873381904,Prices a bit high,Male
+CUST132,Bishal Gurung,5,1476,7380,Market Visit,3,Clothing,Cash,1/28/2024 11:28,Pokhara,100,No,9846926509,Satisfied with quality,Female
+CUST133,Sarita Lama,10,1074,12758,Website,3,Electronics,Cash,2/3/2024 4:35,-,60,Yes,9880900431,Quick delivery,Female
+CUST134,Sarita Lama,7,603,4774,Market Visit,3,Household,Mobile Payment,9/26/2024 1:45,Bhaktapur,240,Yes,9835708221,Satisfied with quality,Male
+CUST135,Nima Sherpa,5,1130,5650,Market Visit,5,Personal Care,Cash,3/2/2024 11:33,Bhaktapur,200,No,9872244509,Satisfied with quality,Male
+CUST136,Asha Rai,6,612,4039,Website,5,Electronics,Card,3/16/2024 9:04,-,0,Yes,9850475242,Quick delivery,Female
+CUST137,Ram Shrestha,1,961,961,Website,1,Household,Cash,5/12/2024 2:22,-,50,No,9845165298,Great experience,Male
+CUST138,Bishal Gurung,1,572,572,Website,3,Electronics,Mobile Payment,5/31/2024 3:08,-,0,No,9856668290,Satisfied with quality,Male
+CUST139,Asha Rai,9,679,6111,Website,1,Household,Mobile Payment,1/9/2024 17:08,-,100,No,9862905643,Great experience,Male
+CUST140,Nima Sherpa,5,1891,9984,Website,5,Electronics,Mobile Payment,12/12/2023 18:46,-,60,Yes,9821304462,Quick delivery,Male
+CUST141,Bishal Gurung,10,135,1603,Market Visit,2,Groceries,Mobile Payment,1/25/2024 14:02,Pokhara,240,Yes,9850027262,Friendly staff,Female
+CUST142,Kamal Sharma,3,318,838,Website,5,Household,Mobile Payment,3/28/2024 23:16,-,120,Yes,9851424370,Quick delivery,Female
+CUST143,Kamal Sharma,2,1638,2161,Market Visit,5,Household,Mobile Payment,7/10/2024 13:36,Pokhara,240,Yes,9826246961,Prices a bit high,Male
+CUST144,Nima Sherpa,6,1561,9366,Website,1,Groceries,Mobile Payment,6/24/2024 3:14,-,200,No,9812945787,Great experience,Male
+CUST145,Nima Sherpa,5,822,4110,Market Visit,2,Clothing,Card,6/5/2024 7:46,Pokhara,50,No,9853358601,Quick delivery,Female
+CUST146,Sita Tamang,11,995,13134,Website,5,Clothing,Card,10/18/2024 5:27,-,120,Yes,9849662918,Great experience,Male
+CUST147,Sarita Lama,4,1162,4648,Website,1,Clothing,Cash,1/21/2024 22:49,-,0,No,9819370475,Satisfied with quality,Female
+CUST148,Asha Rai,10,891,8910,Market Visit,5,Groceries,Card,9/6/2024 10:13,Bhaktapur,0,No,9818603377,Great experience,Female
+CUST149,Kamal Sharma,5,437,2185,Website,4,Household,Card,7/25/2024 17:22,-,100,No,9825023021,Friendly staff,Female
+CUST150,Ram Shrestha,8,433,4000,Market Visit,4,Clothing,Mobile Payment,11/28/2023 4:16,Kathmandu,0,Yes,9848380695,Satisfied with quality,Female
+CUST151,Bishal Gurung,1,248,248,Website,1,Household,Card,8/27/2024 18:03,-,50,No,9831874381,Quick delivery,Male
+CUST152,Sita Tamang,11,1474,19456,Website,3,Clothing,Mobile Payment,4/18/2024 11:46,-,0,Yes,9855329144,Friendly staff,Male
+CUST153,Nima Sherpa,7,380,3009,Website,2,Clothing,Mobile Payment,2/5/2024 23:08,-,120,Yes,9824012275,Quick delivery,Male
+CUST154,Kamal Sharma,8,1331,10648,Website,5,Groceries,Card,6/30/2024 13:21,-,0,No,9841621001,Quick delivery,Female
+CUST155,Ram Shrestha,3,1231,3693,Market Visit,3,Clothing,Cash,6/11/2024 22:29,Pokhara,50,No,9877664413,Quick delivery,Male
+CUST156,Sarita Lama,6,796,4776,Website,2,Electronics,Cash,7/20/2024 17:58,-,200,No,9883917691,Friendly staff,Female
+CUST157,Asha Rai,11,595,7854,Market Visit,2,Personal Care,Card,2/24/2024 18:09,Lalitpur,240,Yes,9864549861,Friendly staff,Female
+CUST158,Asha Rai,4,1524,6034,Market Visit,4,Clothing,Card,10/29/2024 6:15,Bhaktapur,240,Yes,9874995713,Prices a bit high,Female
+CUST159,Sarita Lama,8,1237,9896,Website,5,Groceries,Card,9/23/2024 1:30,-,200,No,9897796176,Prices a bit high,Male
+CUST160,Bishal Gurung,10,1876,18760,Market Visit,5,Clothing,Cash,12/16/2023 14:14,Lalitpur,50,No,9816967854,Quick delivery,Female
+CUST161,Sarita Lama,3,161,424,Market Visit,5,Clothing,Cash,4/3/2024 6:37,Kathmandu,0,Yes,9811545472,Satisfied with quality,Male
+CUST162,Sita Tamang,7,1459,11554,Website,5,Electronics,Card,1/25/2024 4:45,-,120,Yes,9838411632,Prices a bit high,Male
+CUST163,Ram Shrestha,2,1127,1486,Website,5,Household,Card,6/5/2024 23:30,-,60,Yes,9881702046,Satisfied with quality,Female
+CUST164,Ram Shrestha,6,688,4128,Market Visit,2,Household,Mobile Payment,11/19/2023 5:06,Kathmandu,200,No,9867455526,Satisfied with quality,Male
+CUST165,Sita Tamang,8,731,6753,Website,5,Clothing,Mobile Payment,9/10/2024 7:13,-,60,Yes,9886201877,Friendly staff,Female
+CUST166,Ram Shrestha,2,695,1390,Market Visit,5,Household,Card,6/8/2024 2:22,Kathmandu,200,No,9818811506,Friendly staff,Female
+CUST167,Sita Tamang,5,1062,5606,Market Visit,5,Electronics,Card,4/26/2024 19:37,Kathmandu,240,Yes,9816152544,Quick delivery,Male
+CUST168,Bishal Gurung,6,1419,8514,Website,4,Electronics,Cash,5/22/2024 11:09,-,200,No,9892024060,Prices a bit high,Male
+CUST169,Kamal Sharma,2,1986,2620,Website,5,Personal Care,Cash,2/28/2024 12:54,-,60,Yes,9851058594,Satisfied with quality,Female
+CUST170,Sarita Lama,9,651,5859,Website,5,Household,Card,4/14/2024 21:40,-,100,No,9849636866,Prices a bit high,Male
+CUST171,Kamal Sharma,6,1273,7638,Website,4,Clothing,Cash,5/28/2024 7:43,-,50,No,9834681666,Great experience,Female
+CUST172,Bishal Gurung,10,1205,14314,Market Visit,5,Personal Care,Mobile Payment,5/4/2024 6:18,Pokhara,120,Yes,9881748820,Friendly staff,Male
+CUST173,Asha Rai,5,151,755,Website,2,Clothing,Cash,10/4/2024 13:23,-,0,No,9810123535,Great experience,Female
+CUST174,Bishal Gurung,9,1518,16029,Website,2,Clothing,Card,11/10/2023 23:24,-,60,Yes,9866509226,Prices a bit high,Male
+CUST175,Sarita Lama,9,1598,16874,Market Visit,5,Electronics,Cash,6/18/2024 23:11,Bhaktapur,0,Yes,9823710200,Quick delivery,Female
+CUST176,Sita Tamang,2,414,828,Market Visit,1,Household,Mobile Payment,7/19/2024 23:52,Kathmandu,200,No,9846793240,Prices a bit high,Male
+CUST177,Ram Shrestha,5,464,2449,Website,5,Clothing,Card,3/11/2024 7:51,-,120,Yes,9852329539,Satisfied with quality,Female
+CUST178,Nima Sherpa,5,963,4815,Market Visit,5,Groceries,Card,3/6/2024 11:41,Pokhara,0,No,9852394116,Quick delivery,Male
+CUST179,Bishal Gurung,5,811,4055,Market Visit,3,Personal Care,Card,6/25/2024 6:31,Kathmandu,200,No,9854701820,Prices a bit high,Male
+CUST180,Sita Tamang,7,173,1211,Market Visit,5,Household,Card,8/1/2024 21:24,Kathmandu,200,No,9849093727,Satisfied with quality,Male
+CUST181,Nima Sherpa,7,1975,13825,Website,5,Personal Care,Cash,9/16/2024 0:13,-,50,No,9834025569,Great experience,Female
+CUST182,Sarita Lama,2,517,681,Website,5,Clothing,Card,12/11/2023 11:14,-,60,Yes,9811181461,Great experience,Male
+CUST183,Sarita Lama,6,912,5472,Market Visit,3,Clothing,Card,2/16/2024 13:02,Bhaktapur,100,No,9814846841,Quick delivery,Female
+CUST184,Asha Rai,2,452,596,Website,5,Electronics,Cash,5/22/2024 19:34,-,120,Yes,9838935314,Friendly staff,Male
+CUST185,Kamal Sharma,9,1670,15030,Website,3,Household,Mobile Payment,5/13/2024 3:42,-,0,No,9836458427,Great experience,Female
+CUST186,Asha Rai,10,1857,18570,Website,2,Electronics,Cash,9/9/2024 9:24,-,100,No,9880728103,Great experience,Male
+CUST187,Kamal Sharma,8,1098,10144,Website,3,Household,Cash,2/23/2024 13:48,-,120,Yes,9869200002,Satisfied with quality,Male
+CUST188,Bishal Gurung,2,232,464,Market Visit,4,Clothing,Mobile Payment,7/2/2024 23:23,Kathmandu,0,No,9824944670,Friendly staff,Male
+CUST189,Bishal Gurung,5,1494,7887,Market Visit,5,Clothing,Cash,1/15/2024 2:35,Kathmandu,240,Yes,9894642003,Quick delivery,Male
+CUST190,Suprem Kc,5,203,1071,Website,4,Personal Care,Mobile Payment,5/19/2024 6:24,-,120,Yes,9883139442,Satisfied with quality,Male
+CUST191,Kamal Sharma,11,1647,21740,Website,4,Household,Card,2/6/2024 22:17,-,240,Yes,9814856446,Satisfied with quality,Female
+CUST192,Bishal Gurung,9,741,7824,Market Visit,5,Electronics,Cash,3/30/2024 5:00,Kathmandu,0,Yes,9814018332,Friendly staff,Male
+CUST193,Asha Rai,4,1428,5712,Market Visit,3,Household,Card,10/16/2024 17:04,Bhaktapur,200,No,9860355357,Quick delivery,Male
+CUST194,Sarita Lama,2,1559,3118,Market Visit,2,Groceries,Mobile Payment,11/21/2023 11:03,Kathmandu,200,No,9834599857,Great experience,Female
+CUST195,Sarita Lama,9,274,2893,Market Visit,5,Household,Cash,1/21/2024 15:09,Kathmandu,60,Yes,9812420804,Quick delivery,Male
+CUST196,Sarita Lama,10,537,6379,Market Visit,5,Household,Mobile Payment,12/19/2023 18:23,Kathmandu,120,Yes,9812111947,Prices a bit high,Male
+CUST197,Kamal Sharma,8,1740,16077,Website,5,Household,Card,6/6/2024 11:03,-,60,Yes,9883098438,Satisfied with quality,Male
+CUST198,Sita Tamang,10,1499,17808,Website,2,Clothing,Cash,1/15/2024 13:52,-,120,Yes,9810509658,Friendly staff,Female
+CUST199,Ram Shrestha,3,269,807,Market Visit,4,Clothing,Cash,12/26/2023 12:45,Bhaktapur,100,No,9870470481,Prices a bit high,Male
+CUST200,Bishal Gurung,3,1979,5223,Website,4,Clothing,Cash,2/8/2024 10:45,-,60,Yes,9866111670,Prices a bit high,Male
+CUST201,Nima Sherpa,6,550,3630,Website,4,Personal Care,Mobile Payment,5/14/2024 2:17,-,60,Yes,9817887115,Quick delivery,Female
+CUST202,Asha Rai,7,1850,12950,Website,3,Household,Mobile Payment,11/21/2023 22:59,-,200,No,9899396258,Quick delivery,Male
+CUST203,Sita Tamang,2,1229,1621,Market Visit,2,Household,Cash,1/20/2024 16:11,Pokhara,240,Yes,9898734768,Satisfied with quality,Female
+CUST204,Kamal Sharma,1,823,823,Market Visit,3,Electronics,Mobile Payment,9/27/2024 0:21,Lalitpur,200,No,9888872334,Friendly staff,Male
+CUST205,Ram Shrestha,6,955,6302,Website,5,Household,Mobile Payment,1/26/2024 3:02,-,120,Yes,9836068775,Quick delivery,Male
+CUST206,Bishal Gurung,5,1438,7592,Website,3,Groceries,Cash,6/23/2024 7:49,-,240,Yes,9813205187,Prices a bit high,Female
+CUST207,Bishal Gurung,3,1078,2845,Website,2,Groceries,Cash,12/27/2023 16:56,-,60,Yes,9829800621,Satisfied with quality,Female
+CUST208,Kamal Sharma,2,1592,2101,Website,2,Electronics,Mobile Payment,3/11/2024 20:20,-,0,Yes,9866200835,Satisfied with quality,Male
+CUST209,Kamal Sharma,6,456,2736,Website,2,Clothing,Cash,2/11/2024 3:18,-,200,No,9863856107,Quick delivery,Male
+CUST210,Nima Sherpa,3,717,1892,Market Visit,5,Clothing,Mobile Payment,7/11/2024 21:34,Pokhara,60,Yes,9891702676,Quick delivery,Male
+CUST211,Sita Tamang,11,1309,17278,Website,3,Household,Card,5/2/2024 6:55,-,0,Yes,9842990660,Friendly staff,Female
+CUST212,Ram Shrestha,1,1664,1664,Website,5,Groceries,Card,10/13/2024 23:59,-,100,No,9843535879,Satisfied with quality,Female
+CUST213,Bishal Gurung,7,1383,10952,Website,5,Household,Cash,5/9/2024 22:13,-,120,Yes,9840935389,Prices a bit high,Male
+CUST214,Nima Sherpa,6,1135,7490,Website,4,Electronics,Card,8/13/2024 16:52,-,60,Yes,9820500705,Friendly staff,Male
+CUST215,Nima Sherpa,10,1077,10770,Website,1,Household,Cash,1/18/2024 11:48,-,0,No,9858009156,Friendly staff,Male
+CUST216,Kamal Sharma,5,1525,8052,Website,3,Electronics,Card,4/20/2024 5:57,-,120,Yes,9838435630,Quick delivery,Male
+CUST217,Ram Shrestha,4,292,1168,Website,4,Electronics,Cash,7/11/2024 3:29,-,0,No,9894934311,Friendly staff,Male
+CUST218,Bishal Gurung,3,1058,2792,Website,3,Personal Care,Mobile Payment,9/20/2024 18:16,-,240,Yes,9889685710,Satisfied with quality,Female
+CUST219,Sita Tamang,6,467,2802,Market Visit,5,Electronics,Mobile Payment,7/15/2024 12:07,Lalitpur,200,No,9888920978,Satisfied with quality,Male
+CUST220,Bishal Gurung,5,1358,7170,Market Visit,5,Electronics,Card,7/16/2024 20:51,Pokhara,60,Yes,9837159059,Prices a bit high,Female
+CUST221,Asha Rai,5,1875,9375,Market Visit,5,Household,Mobile Payment,6/4/2024 5:42,Lalitpur,0,No,9882616712,Prices a bit high,Male
+CUST222,Asha Rai,3,1489,4467,Website,2,Personal Care,Mobile Payment,7/9/2024 7:41,-,0,No,9819892061,Great experience,Male
+CUST223,Sita Tamang,10,107,1070,Market Visit,1,Groceries,Mobile Payment,8/23/2024 1:41,Pokhara,50,No,9897651488,Quick delivery,Male
+CUST224,Sarita Lama,9,976,10305,Website,5,Groceries,Mobile Payment,9/3/2024 22:19,-,60,Yes,9875412974,Friendly staff,Female
+CUST225,Sita Tamang,5,1929,9645,Website,2,Household,Card,8/10/2024 17:28,-,50,No,9835508020,Satisfied with quality,Female
+CUST226,Ram Shrestha,10,1006,10060,Market Visit,1,Groceries,Mobile Payment,3/1/2024 4:27,Bhaktapur,50,No,9834316421,Great experience,Female
+CUST227,Kamal Sharma,4,1834,7262,Website,5,Household,Card,9/9/2024 16:20,-,120,Yes,9832367417,Great experience,Male
+CUST228,Nima Sherpa,6,1237,8163,Website,5,Household,Cash,1/2/2024 5:20,-,60,Yes,9813119992,Prices a bit high,Male
+CUST229,Bishal Gurung,10,1594,18936,Market Visit,4,Clothing,Card,6/5/2024 19:01,Bhaktapur,60,Yes,9839758724,Satisfied with quality,Female
+CUST230,Ram Shrestha,6,480,3168,Website,3,Clothing,Card,10/30/2024 11:37,-,240,Yes,9823432480,Great experience,Female
+CUST231,Sita Tamang,4,343,1372,Market Visit,4,Household,Cash,3/5/2024 3:10,Kathmandu,0,No,9845459306,Satisfied with quality,Female
+CUST232,Nima Sherpa,11,343,4527,Website,4,Household,Cash,3/14/2024 16:22,-,120,Yes,9860488540,Quick delivery,Female
+CUST233,Asha Rai,4,832,3294,Website,5,Household,Cash,6/20/2024 20:00,-,240,Yes,9852189004,Quick delivery,Male
+CUST234,Kamal Sharma,8,1192,9536,Website,3,Personal Care,Mobile Payment,12/1/2023 13:56,-,0,No,9819208189,Prices a bit high,Male
+CUST235,Sita Tamang,1,574,574,Website,3,Household,Card,4/14/2024 8:29,-,100,No,9814858050,Great experience,Male
+CUST236,Sita Tamang,2,1866,3732,Market Visit,2,Clothing,Cash,10/28/2024 5:49,Bhaktapur,200,No,9885680432,Satisfied with quality,Female
+CUST237,Asha Rai,11,1036,13675,Market Visit,2,Electronics,Mobile Payment,10/27/2024 17:46,Pokhara,60,Yes,9823156522,Friendly staff,Female
+CUST238,Bishal Gurung,8,1131,9048,Website,3,Clothing,Card,4/22/2024 6:37,-,0,No,9826694958,Friendly staff,Male
+CUST239,Kamal Sharma,2,1777,3554,Website,3,Clothing,Mobile Payment,10/25/2024 9:15,-,0,No,9898305038,Prices a bit high,Female
+CUST240,Sarita Lama,10,953,11320,Market Visit,2,Groceries,Card,7/3/2024 20:41,Kathmandu,60,Yes,9846725234,Great experience,Male
+CUST241,Kamal Sharma,3,1625,4875,Website,5,Electronics,Cash,4/25/2024 18:28,-,50,No,9820774389,Prices a bit high,Male
+CUST242,Aman Rai,10,353,3530,Market Visit,1,Personal Care,Mobile Payment,4/17/2024 1:44,Bhaktapur,0,No,9821920528,Satisfied with quality,Female
+CUST243,Bishal Gurung,5,878,4635,Website,5,Groceries,Card,1/18/2024 0:25,-,240,Yes,9830291768,Prices a bit high,Male
+CUST244,Kamal Sharma,8,1281,10248,Website,3,Household,Card,9/22/2024 3:44,-,0,No,9862081354,Prices a bit high,Female
+CUST245,Sarita Lama,5,1599,8442,Website,5,Clothing,Cash,12/1/2023 20:36,-,0,Yes,9884361108,Satisfied with quality,Female
+CUST246,Ram Shrestha,10,1232,12320,Website,2,Groceries,Card,2/25/2024 1:50,-,200,No,9848560357,Satisfied with quality,Female
+CUST247,Kamal Sharma,3,1816,4794,Market Visit,2,Groceries,Mobile Payment,7/20/2024 22:58,Bhaktapur,0,Yes,9863534908,Friendly staff,Female
+CUST248,Bishal Gurung,9,1276,13473,Website,5,Electronics,Card,2/7/2024 3:34,-,120,Yes,9895844879,Satisfied with quality,Male
+CUST249,Nima Sherpa,10,1807,18070,Website,3,Personal Care,Cash,6/13/2024 23:21,-,100,No,9895922430,Friendly staff,Male
+CUST250,Sita Tamang,6,113,678,Website,5,Electronics,Cash,8/8/2024 1:28,-,100,No,9856778627,Satisfied with quality,Male
+CUST251,Kamal Sharma,6,513,3385,Website,5,Clothing,Cash,2/26/2024 20:28,-,120,Yes,9851806729,Quick delivery,Female
+CUST252,Sarita Lama,3,1302,3906,Website,2,Groceries,Card,5/17/2024 13:17,-,0,No,9818899790,Great experience,Female
+CUST253,Sita Tamang,8,1143,10561,Website,3,Personal Care,Mobile Payment,9/17/2024 14:31,-,120,Yes,9815742883,Great experience,Female
+CUST254,Sarita Lama,7,1237,8659,Website,1,Clothing,Mobile Payment,12/29/2023 0:06,-,50,No,9872411419,Quick delivery,Male
+CUST255,Kamal Sharma,10,1536,15360,Market Visit,3,Electronics,Cash,3/4/2024 7:05,Pokhara,100,No,9827649654,Prices a bit high,Female
+CUST256,Sita Tamang,7,1669,13218,Market Visit,5,Electronics,Cash,5/25/2024 9:58,Kathmandu,120,Yes,9882980180,Great experience,Female
+CUST257,Ram Shrestha,2,255,336,Website,3,Personal Care,Card,10/7/2024 18:43,-,0,Yes,9842703873,Quick delivery,Female
+CUST258,Sarita Lama,9,799,8437,Market Visit,2,Household,Mobile Payment,12/27/2023 19:06,Kathmandu,60,Yes,9834713442,Quick delivery,Female
+CUST259,Bishal Gurung,7,1779,12453,Market Visit,3,Personal Care,Mobile Payment,7/12/2024 21:30,Pokhara,100,No,9897898139,Prices a bit high,Male
+CUST260,Ram Shrestha,4,1475,5840,Market Visit,4,Groceries,Card,1/6/2024 15:56,Kathmandu,240,Yes,9819845990,Satisfied with quality,Male
+CUST261,Ram Shrestha,2,110,145,Website,4,Groceries,Mobile Payment,10/4/2024 22:22,-,120,Yes,9835943855,Friendly staff,Female
+CUST262,Sita Tamang,3,509,1527,Website,2,Personal Care,Card,9/24/2024 20:21,-,0,No,9853524000,Satisfied with quality,Female
+CUST263,Kamal Sharma,4,362,1432,Website,5,Electronics,Cash,8/24/2024 9:41,-,240,Yes,9877898871,Friendly staff,Male
+CUST264,Bishal Gurung,6,361,2382,Market Visit,3,Personal Care,Card,10/6/2024 3:29,Bhaktapur,0,Yes,9834951111,Friendly staff,Male
+CUST265,Sita Tamang,6,1393,9193,Market Visit,4,Clothing,Mobile Payment,3/30/2024 18:06,Kathmandu,60,Yes,9893495721,Quick delivery,Male
+CUST266,Nima Sherpa,7,823,5761,Market Visit,2,Groceries,Card,2/12/2024 23:43,Pokhara,100,No,9875168187,Prices a bit high,Female
+CUST267,Ram Shrestha,11,1725,22770,Market Visit,2,Household,Card,6/1/2024 8:18,Lalitpur,120,Yes,9816006132,Quick delivery,Female
+CUST268,Sita Tamang,9,645,5805,Market Visit,4,Groceries,Mobile Payment,7/21/2024 9:17,Pokhara,100,No,9895214552,Prices a bit high,Male
+CUST269,Ram Shrestha,3,805,2415,Market Visit,3,Household,Card,6/13/2024 4:29,Lalitpur,100,No,9899982718,Friendly staff,Female
+CUST270,Kamal Sharma,2,486,972,Market Visit,5,Personal Care,Mobile Payment,7/23/2024 0:24,Bhaktapur,200,No,9814817349,Great experience,Female
+CUST271,Sita Tamang,3,1683,5049,Website,1,Personal Care,Card,10/28/2024 13:03,-,0,No,9892196645,Quick delivery,Female
+CUST272,Hari Kumar Kc,3,1207,3186,Market Visit,4,Clothing,Card,5/31/2024 6:02,Pokhara,0,Yes,9830263546,Friendly staff,Female
+CUST273,Asha Rai,4,328,1298,Market Visit,5,Household,Cash,10/25/2024 0:09,Pokhara,0,Yes,9822600158,Great experience,Female
+CUST274,Sita Tamang,6,321,1926,Website,2,Personal Care,Cash,5/23/2024 7:57,-,50,No,9839530820,Prices a bit high,Male
+CUST275,Nima Sherpa,4,180,720,Market Visit,4,Clothing,Cash,6/5/2024 17:57,Kathmandu,100,No,9833567952,Friendly staff,Male
+CUST276,Kamal Sharma,7,1424,9968,Website,5,Household,Card,10/16/2024 13:02,-,0,No,9848344430,Satisfied with quality,Male
+CUST277,Ram Shrestha,2,438,876,Website,4,Electronics,Mobile Payment,12/25/2023 0:29,-,50,No,9847562442,Great experience,Female
+CUST278,Kamal Sharma,6,1775,10650,Market Visit,4,Personal Care,Mobile Payment,8/8/2024 20:43,Lalitpur,0,No,9895930660,Great experience,Male
+CUST279,Asha Rai,3,1136,3408,Website,4,Personal Care,Cash,3/2/2024 11:04,-,200,No,9856126441,Great experience,Female
+CUST280,Kamal Sharma,10,1408,16726,Website,4,Electronics,Card,12/19/2023 9:54,-,120,Yes,9884121534,Great experience,Male
+CUST281,Sita Tamang,4,944,3776,Website,3,Personal Care,Cash,3/21/2024 16:55,-,50,No,9851013020,Great experience,Female
+CUST282,Asha Rai,9,490,4410,Website,1,Electronics,Card,10/25/2024 23:21,-,0,No,9830850351,Great experience,Female
+CUST283,Sarita Lama,1,542,542,Market Visit,4,Groceries,Cash,5/30/2024 11:33,Bhaktapur,50,No,9840694003,Friendly staff,Male
+CUST284,Asha Rai,5,1524,8046,Market Visit,5,Personal Care,Mobile Payment,7/30/2024 17:24,Pokhara,120,Yes,9897388980,Prices a bit high,Male
+CUST285,Ram Shrestha,6,1605,9630,Market Visit,2,Household,Card,9/7/2024 6:47,Pokhara,50,No,9859851110,Satisfied with quality,Male
+CUST286,Asha Rai,8,1799,16622,Website,5,Clothing,Card,12/5/2023 3:50,-,60,Yes,9862112277,Friendly staff,Female
+CUST287,Nima Sherpa,7,1466,10262,Market Visit,4,Clothing,Cash,6/30/2024 18:03,Bhaktapur,200,No,9890078312,Quick delivery,Male
+CUST288,Bishal Gurung,10,495,4950,Website,4,Electronics,Card,7/2/2024 8:47,-,200,No,9895577333,Satisfied with quality,Male
+CUST289,Sarita Lama,9,1230,11070,Website,2,Electronics,Mobile Payment,6/9/2024 2:46,-,50,No,9894783043,Friendly staff,Female
+CUST290,Sarita Lama,3,1627,4294,Market Visit,3,Groceries,Card,2/2/2024 7:42,Lalitpur,240,Yes,9863380063,Quick delivery,Female
+CUST291,Asha Rai,4,321,1270,Market Visit,5,Electronics,Cash,1/23/2024 18:47,Bhaktapur,240,Yes,9848419703,Quick delivery,Female
+CUST292,Sarita Lama,6,1702,10212,Market Visit,4,Household,Mobile Payment,12/17/2023 23:11,Pokhara,200,No,9889697522,Great experience,Female
+CUST293,Ram Shrestha,2,1435,1893,Market Visit,4,Clothing,Card,6/1/2024 6:41,Lalitpur,120,Yes,9861829082,Prices a bit high,Male
+CUST294,Sarita Lama,2,280,560,Website,5,Household,Cash,12/23/2023 3:06,-,100,No,9857434748,Friendly staff,Female
+CUST295,Asmita Tamang,1,1555,1555,Market Visit,5,Personal Care,Cash,5/31/2024 7:46,Kathmandu,50,No,9810824243,Friendly staff,Male
+CUST296,Kamal Sharma,6,919,5514,Website,2,Personal Care,Mobile Payment,4/23/2024 5:18,-,50,No,9835949686,Satisfied with quality,Male
+CUST297,Asha Rai,7,685,4795,Market Visit,3,Groceries,Mobile Payment,10/5/2024 5:05,Lalitpur,0,No,9869059335,Satisfied with quality,Male
+CUST298,Kamal Sharma,8,342,2736,Market Visit,1,Electronics,Card,12/1/2023 8:10,Pokhara,200,No,9866858364,Prices a bit high,Male
+CUST299,Gurax Gurung,11,217,2864,Market Visit,4,Household,Cash,1/21/2024 2:00,Pokhara,60,Yes,9816458335,Friendly staff,Female
+CUST300,Sarita Lama,9,1644,17360,Market Visit,3,Clothing,Cash,11/12/2023 14:47,Lalitpur,0,Yes,9893314124,Prices a bit high,Female
