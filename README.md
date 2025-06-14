@@ -1,7 +1,5 @@
 **Dajubhai MiniMart Analysis**
 
-# 📊 ITS69304 Individual Assignment — Suprem Khatri
-
 This repository contains the **Jupyter Notebook** for dajubhai minimart analysis. The notebook demonstrates a full data science workflow: from data cleaning to model building using a dataset named `DajuBhaiMinimart.csv`.
 
 ---
